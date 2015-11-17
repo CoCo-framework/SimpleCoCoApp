@@ -1,0 +1,5 @@
+{
+	"require":{
+		"coco-framework/coco":"v0.1"
+	}
+}
