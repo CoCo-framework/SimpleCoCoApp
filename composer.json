@@ -1,5 +1,5 @@
 {
 	"require":{
-		"coco-framework/coco":"v0.1"
+		"coco-soft/coco-framework":"dev-master"
 	}
 }

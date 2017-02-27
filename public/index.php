@@ -11,7 +11,7 @@ require(__DIR__ . '/../vendor/autoload.php');
 require(__DIR__ . '/../vendor/coco-framework/coco/CoCo.php');
 
 // include this application main config file
-$config = require(__DIR__ . '/../config/web.php');
+$config = require(__DIR__ . '/../config/app.php');
 
-// new and run a CoCo web application
+// new and run a CoCo public application
 (new coco\web\Application($config))->run();
