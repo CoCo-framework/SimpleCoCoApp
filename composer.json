@@ -1,6 +1,6 @@
 {
 	"require":{
-		"coco-soft/coco-framework":"0.4.*",
+		"coco-soft/coco-framework":"0.4",
 		"twig/twig": "^1.31",
 		"symfony/http-foundation": "^3.2"
 	},

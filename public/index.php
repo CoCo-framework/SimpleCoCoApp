@@ -7,8 +7,6 @@
 // include composer autoload
 require(__DIR__ . '/../vendor/autoload.php');
 
-require_once '../vendor/coco-soft/coco-framework/config/helpers.php';
-
 // new and run a CoCo public application
 $app = new coco\web\Application(dirname(__DIR__));
 $app->run();
